@@ -245,5 +245,7 @@ Do you:
 
 [You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
 
+[Start Singing "The Song That Never Ends"?] (never-ending-song/never-ending-song.md)
+
 [Explain Fizzbin to the marshmallow hand?](fizzbin/explain-fizzbin.md)
 
